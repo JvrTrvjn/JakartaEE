@@ -1,0 +1,12 @@
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/controllers/DespacharServlet.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/controllers/HoraActualizadaServlet.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/controllers/RedirigirServlet.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/controllers/ProductoJsonServlet.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/services/ProductoServiceImpl.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/controllers/BuscarProductoServlet.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/models/Producto.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/controllers/LoginServlet.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/controllers/HeadersHttpRequestServlet.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/controllers/ProductoXlsServlet.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/Main.java
+/Users/javi/Downloads/webapp/webapp-headers/src/main/java/org/jti/apiservlet/webapp/headers/services/ProductoService.java

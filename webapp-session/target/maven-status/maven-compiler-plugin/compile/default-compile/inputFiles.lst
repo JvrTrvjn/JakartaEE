@@ -1,0 +1,17 @@
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/models/Producto.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/controllers/VerCarroServlet.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/controllers/ProductoServlet.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/controllers/ActualizarCarroServlet.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/services/ProductoServiceImpl.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/controllers/LoginServlet.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/models/ItemCarro.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/services/ProductoService.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/Main.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/controllers/AgregarCarroServlet.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/services/LoginService.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/services/LoginServiceCookieImpl.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/controllers/LogoutServlet.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/models/Carro.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/services/LoginServiceSessionImpl.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/filters/LoginFiltro.java
+/Users/javi/Downloads/webapp/webapp-session/src/main/java/org/jti/apiservlet/webapp/session/listeners/AppListener.java

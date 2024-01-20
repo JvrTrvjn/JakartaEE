@@ -1,0 +1,10 @@
+org/jti/apiservlet/webapp/headers/controllers/ProductoServlet.class
+org/jti/apiservlet/webapp/headers/Solution.class
+org/jti/apiservlet/webapp/headers/controllers/LogoutServlet.class
+org/jti/apiservlet/webapp/headers/services/LoginService.class
+org/jti/apiservlet/webapp/headers/Main.class
+org/jti/apiservlet/webapp/headers/services/LoginServiceImpl.class
+org/jti/apiservlet/webapp/headers/services/ProductoService.class
+org/jti/apiservlet/webapp/headers/services/ProductoServiceImpl.class
+org/jti/apiservlet/webapp/headers/models/Producto.class
+org/jti/apiservlet/webapp/headers/controllers/LoginServlet.class
